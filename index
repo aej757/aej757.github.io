@@ -20,18 +20,17 @@
       <img src="num3.jpg">
     </p>
     <h4>When it hit 1pm and you still didn’t have lunch</h4>
-     <p>
+    <p>
       <img src="num4.jpg">
     </p>
     <h5>When you heard “Please welcome the President of the United States”</h5>
-     <p>
+    <p>
       <img src="num5.jpg">
     </p>
     <h6>Video of the President's Landing</h6>
       <ul>
         <li><a href="https://www.youtube.com/watch?v=a5Zb9or-M-I">Helicopter Landing</a></li>
       </ul>
-    </section>
   </div>
 </body>
 </html>
