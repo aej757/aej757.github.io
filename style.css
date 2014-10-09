@@ -32,3 +32,7 @@ h1 {
 p, li, span {
 	line-height: 50px;
 }
+
+table {
+	float:center;
+}
