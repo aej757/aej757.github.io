@@ -12,7 +12,7 @@ body {
   padding: 20px;
 }
 
-img#Andy {
+span {
 	border: 20px solid grey;
 	border-radius: 20px;
 	float: right;
