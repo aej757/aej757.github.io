@@ -15,7 +15,7 @@ body {
 span {
 	border: 5px solid grey;
 	border-radius: 5px;
-	float: right;
+	float: center;
 }
 
 img#Layci {
