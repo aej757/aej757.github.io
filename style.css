@@ -13,9 +13,9 @@ body {
 }
 
 img#Andy {
-	border: 1px solid blue;
+	border: 1px black;
 	border-radius: 9999999px;
-	box-shadow: 50px 50px 25px blue;
+	box-shadow: 50px 50px 25px black;
 	float: right;
 }
 
