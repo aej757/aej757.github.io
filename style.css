@@ -18,7 +18,7 @@ span {
 	float: center;
 }
 
-img#Layci {
+h2 {
 	height: 75%;
 }
 
@@ -31,8 +31,4 @@ h1 {
 
 p, li, span {
 	line-height: 50px;
-}
-
-table {
-	text-align: center;
 }
