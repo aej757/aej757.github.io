@@ -34,5 +34,5 @@ p, li, span {
 }
 
 table {
-	float:center;
+	text-align: center;
 }
