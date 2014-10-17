@@ -1,34 +1,7 @@
-body {
-  font-family: 'helvetica neue', arial, sans-serif;
-  font-weight: 300;
-  background: url(Purple.jpg) repeat;
+body h1 {
+	color: purple;
 }
 
-#wrapper {
-  background-color: white;		
-  width: 960px;
-  margin: 20px auto;
-  text-align: center;
-  padding: 20px;
-}
-
-span {
-	border: 5px solid grey;
-	border-radius: 5px;
-	float: center;
-}
-
-h2 {
-	height: 75%;
-}
-
-h1 {
-	color: blue;
-	font-style: italic;
-	font-family: "Calibri";
-	font-size: 44px;
-}
-
-p, li, span {
-	line-height: 50px;
+body h2 {
+	color: purple;
 }
